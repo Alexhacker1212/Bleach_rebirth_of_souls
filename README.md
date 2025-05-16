@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] <!-- Intro -->
+<!-- Intro -->
 
 <a href="[https://github.com/Alexhacker1212/PS3_ROM_CITY/assets/173580098/f84c0299-40f0-4fa6-8d9f-b375e67fb035](https://github.com/Alexhacker1212/Bleach-Rebirth-Of-Souls.git)
 " target="_blank"><img src="https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/BrJb5CeuQHyUyyXIcX4w" /></a>
