@@ -18,12 +18,12 @@
 
 <h4 align="center">
 
-<h3 align="center">Título: Bleach Rebirth Of Souls</a></h3>
-<h3 align="center">Serial: CUSA25090</a></h3>
-<h3 align="center">Región: JPN</a></h3>
+<h3 align="center">Título: Bleach Rebirth Of Souls</h3>
+<h3 align="center">Serial: CUSA25090</h3>
+<h3 align="center">Región: JPN</h3>
 <h3 align="center">Idioma: Ingles</a></h3>
-<h3 align="center">Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB</a></h3>
-<h3 align="center">Formato: PKG</a></h3>
+<h3 align="center">Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB</h3>
+<h3 align="center">Formato: PKG</h3>
 
 
 <h3 align="center">ES 3 PARTE EN WINRAR DEL JUEGO</a></h3>
@@ -78,3 +78,9 @@ Credito: Team Paradise
 Última edición: 15/05/2025
 
 [![](https://visitcount.itsvg.in/api?id=Alex&label=PS3%20ROM%20CITY&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h4 align="center">
+@copyright 2025 -​ Team Paradise 
+</h4>
